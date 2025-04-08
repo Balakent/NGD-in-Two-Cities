@@ -1,5 +1,5 @@
 # NGD-in-Two-Cities
-Natural Gas Demand of Two Cities in Turkey between 2014 and 2016
+## Natural Gas Demand Data of Two Cities in Turkey between 2014 and 2016
 
 Natural Gas Demand (NGD) data of Bursa and Kayseri provided by the local Natural Gas Distribution Company SOCAR. 
 The data covers monthly NGD values of 36 months between January 2014 to Decemeber 2016.
